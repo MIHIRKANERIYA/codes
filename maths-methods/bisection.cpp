@@ -4,6 +4,7 @@ using namespace std;
 #define EPSILON 0.01
 double func(double x)
 {
+	//YOU CAN CHANGE THIS FUNCTION ACCORDING TO YOUR NEED
 	return x*x*x - x*x + 2;
 }
 
